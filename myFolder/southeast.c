@@ -12,6 +12,7 @@ int main()
 	int longitude = 24;
 
 	go_south_east(latitude, longitude);
+	
 	printf("[%i, %i]\n",latitude, longitude);
 	return 0;
 
